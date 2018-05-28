@@ -1,4 +1,4 @@
-package model;
+package lawn.mower.model;
 
 import java.util.Objects;
 

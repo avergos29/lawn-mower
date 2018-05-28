@@ -1,4 +1,6 @@
-import model.*;
+package lawn.mower;
+
+import lawn.mower.model.*;
 import org.junit.Test;
 
 import java.util.Arrays;

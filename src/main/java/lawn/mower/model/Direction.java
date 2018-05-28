@@ -1,4 +1,4 @@
-package model;
+package lawn.mower.model;
 
 /**
  * Created by antoinevergos on 28/05/2018.

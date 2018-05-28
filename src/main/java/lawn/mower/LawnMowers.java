@@ -1,4 +1,6 @@
-import model.*;
+package lawn.mower;
+
+import lawn.mower.model.*;
 
 import java.util.List;
 import java.util.Objects;
