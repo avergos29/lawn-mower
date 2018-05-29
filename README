@@ -1,5 +1,6 @@
 The entry point is the class LawnMowerEngine
 
 Usage
-To process a file, please implements a LawnMowerEngine and apply the processFile method
-new LawnMowerEngine().processFile("YOUR FILE");
+To process a file run command:
+
+java -jar lawnmowers.jar <Filename>
