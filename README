@@ -1,6 +1,4 @@
-The entry point is the class LawnMowerEngine
-
-Usage
+Usage:
 To process a file run command:
 
 java -jar lawnmowers.jar <Filename>

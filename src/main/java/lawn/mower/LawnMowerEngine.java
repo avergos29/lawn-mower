@@ -42,6 +42,6 @@ public class LawnMowerEngine {
 
 
     public static void main(String[] args) throws IOException {
-        new LawnMowerEngine().processFile("/Users/antoinevergos/IdeaProjects/lawn-mower/test/data/test.txt");
+        new LawnMowerEngine().processFile(args[0]);
     }
 }
